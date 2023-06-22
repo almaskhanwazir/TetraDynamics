@@ -1,0 +1,2 @@
+# TetraDynamics
+Azure functions apps
